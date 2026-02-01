@@ -29,7 +29,9 @@ The analysis focuses on identifying complaint trends, measuring operational effi
 - **Power BI** – Dashboard development & visualization  
 - **SQL (MySQL)** – Data analysis and querying  
 - **DAX** – Calculated measures and KPIs  
-- **Data Cleaning & Modeling** – Ensuring structured and reliable data  
+- **Data Cleaning & Modeling** – Ensuring structured and reliable data
+
+-**PPT link** - [https://www.canva.com/design/DAHAEoVVMR4/iVQDLgBsbhAt666AGYLFig/edit?utm_content=DAHAEoVVMR4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 ---
 
