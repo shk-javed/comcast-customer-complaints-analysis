@@ -1,4 +1,4 @@
-# 📊 Comcast Customer Complaints Analysis Dashboard
+# 📊 Customer Service Operations MIS Dashboard (SQL + Power BI)
 
 An interactive **Power BI dashboard** designed to analyze over **2,000+ customer complaints** and uncover actionable insights related to service issues, resolution performance, peak complaint periods, and geographic hotspots.
 
